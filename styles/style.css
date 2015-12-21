@@ -37,8 +37,9 @@
   margin-top: 80px;
 }
 
-#popUp h1 {
+#popUp h1, p {
   margin-bottom: 0;
+  margin-left: 20px;
 }
 
 #popUp .popUpAction {
@@ -50,6 +51,7 @@
   transform: 0.2s all;
   margin-top: 30px;
   display: inline-block;
+  margin-left: 20px;
 }
 
 #popUp .popUpAction:hover {
